@@ -10,14 +10,14 @@
               img(src="@/assets/template/Seleccion_Multiple.svg", alt="Texto que describa la imagen")
         .col-12.col-md-8.col-lg-9
           .titulo-segundo
-            h2 Nombre de la Actividad
-          p.mb-4 Objetivo de la actividad
+            h2 Prueba de conocimientos sobre cableado estructurado: implementación y gestión de riesgos
+          p.mb-4 Evaluar el conocimiento logrado sobre el cableado estructurado: implementación y gestión de riesgos. Esto se desarrollará a partir de un conjunto de preguntas las cuales tienen como propósito corroborar la adquisición del aprendizaje durante el componente.
           .tarjeta.actividad.p-3
             .row.justify-content-around.align-items-center            
               .col-sm.mb-3.mb-sm-0
                 p.fw-bold.mb-0 Cuestionario
               .col-auto
-                a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+                a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
                   span Realizar
                   i.fas.fa-puzzle-piece</template>
 
