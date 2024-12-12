@@ -58,7 +58,7 @@
         figure.mb-4.mb-lg-0
           img.mx-auto(src="@/assets/curso/temas/52.svg",style="max-width: 295px;")
       .col-lg-5
-        p.mb-0 La normativa de seguridad es un componente primordial en la instalación de sistemas de cableado estructurado, ya que establece los estándares y regulaciones necesarios para garantizar la seguridad del personal, la integridad del sistema y el cumplimiento de las leyes y regulaciones locales e internacionales. Las directrices sobre el uso de equipos, la seguridad eléctrica y la protección contra incendios son fundamentales para prevenir accidentes y minimizar riesgos. Organizaciones como la ISO y la NFPA desempeñan un papel fundamental al proporcionar normativas detalladas que guían a los profesionales en la
+        p.mb-0 La normativa de seguridad es un componente primordial en la instalación de sistemas de cableado estructurado, ya que establece los estándares y regulaciones necesarios para garantizar la seguridad del personal, la integridad del sistema y el cumplimiento de las leyes y regulaciones locales e internacionales. Las directrices sobre el uso de equipos, la seguridad eléctrica y la protección contra incendios son fundamentales para prevenir accidentes y minimizar riesgos. Organizaciones como la ISO y la NFPA desempeñan un papel fundamental al proporcionar normativas detalladas que guían a los profesionales en la implementación segura y estandarizada de sistemas de cableado estructurado, asegurando así la protección tanto de la infraestructura como de las personas que interactúan con ella.
 
 </template>
 

@@ -37,7 +37,8 @@
     
     p.mb-5(data-aos="fade-up") Las certificaciones ambientales son reconocimientos que indican que un proyecto cumple con ciertos estándares de sostenibilidad y responsabilidad ambiental. Estas certificaciones son otorgadas por organizaciones internacionales y nacionales que evalúan diversos aspectos del proyecto, incluyendo el uso eficiente de recursos, la reducción de emisiones, y la gestión de residuos. Obtener estas certificaciones no solo mejora la reputación del proyecto, también demuestra un compromiso genuino con la sostenibilidad y la protección del medio ambiente. A continuación, se profundiza en algunas de las certificaciones ambientales más reconocidas y sus criterios de evaluación.
 
-    h3.text-white.fondo-color-acento-contenido.d-inline-flex.borde-20.p-1.mb-4.px-3.pe-lg-5(data-aos="fade-up") LEED (Leadership in Energy and Environmental Design)
+    .rounded-pill.p-2.d-inline-block.px-3(style="background-color: #692cb7 ").mb-4
+      h3.text-white(data-aos="fade-left").mb-0.mx-3 LEED (#[em Leadership in Energy and Environmental Design])
 
     p.mb-4(data-aos="fade-down") LEED es una certificación desarrollada por el U.S. #[em Green Building Council] (USGBC) que evalúa el diseño, construcción, operación y mantenimiento de edificios ecológicos. Los criterios de evaluación de LEED incluyen:
 
@@ -62,8 +63,8 @@
           .div(titulo="Sostenibilidad del sitio")
             .ps-md-5.ms-md-3
               p.mb-4 Evalúa la selección del sitio de construcción, considerando factores como la protección de áreas naturales, la reducción del impacto en el entorno y la promoción de la biodiversidad.
-
-    h3.text-white.fondo-color-acento-contenido.d-inline-flex.borde-20.p-1.mb-4.px-3.pe-lg-5(data-aos="fade-left") BREEAM #[em (Building Research Establishment Environmental Assessment Method)]
+    .rounded-pill.p-2.d-inline-block.px-3(style="background-color: #692cb7 ").mb-4
+      h3.text-white(data-aos="fade-left").mb-0.mx-3 BREEAM (#[em Building Research Establishment Environmental Assessment Method])
 
     p.mb-4 BREEAM es una certificación desarrollada por el #[em Building Research Establishment] (BRE) en el Reino Unido que evalúa la sostenibilidad de los edificios en todas sus etapas, desde el diseño hasta la operación. Los criterios de evaluación de BREEAM incluyen:
 
@@ -135,7 +136,8 @@
                 figure
                   img.mx-auto(src="@/assets/curso/temas/42.png",style="max-width: 400px;")
     
-    h3.text-white.fondo-color-acento-contenido.d-inline-flex.borde-20.p-1.mb-4.px-3.pe-lg-5(data-aos="fade-left") Otras certificaciones ambientales
+    .rounded-pill.p-2.d-inline-block.px-3(style="background-color: #692cb7 ").mb-4
+      h3.text-white(data-aos="fade-left").mb-0.mx-3 Otras certificaciones ambientales
 
     p.mb-4(data-aos="fade-left") Además de LEED y BREEAM, existen otras certificaciones ambientales que evalúan la sostenibilidad de los proyectos de construcción y cableado estructurado:
 
@@ -169,53 +171,55 @@
               h4.mb-4.text-center #[em WELL Building Standard]
               p.mb-0.text-center Desarrollada por el #[em International WELL Building Institute] (IWBI), #[em WELL Building Standard] se centra en la salud y el bienestar de los ocupantes de los edificios. Los criterios de evaluación incluyen la calidad del aire interior, la iluminación natural, el confort térmico y la promoción de estilos de vida saludables.
 
-    h3.text-white.fondo-color-acento-contenido.d-inline-flex.borde-20.p-1.mb-4.px-3.pe-lg-5(data-aos="fade-up") Beneficios de las certificaciones ambientales
+    .rounded-pill.p-2.d-inline-block.px-3(style="background-color: #692cb7 ").mb-4
+      h3.text-white(data-aos="fade-left").mb-0.mx-3 Beneficios de las certificaciones ambientales
 
     p.mb-4(data-aos="fade-left") Obtener certificaciones ambientales como LEED, BREEAM y otras ofrece numerosos beneficios, incluyendo:
     
-    .fondo-personalizado-1.f1
+    .fondo-personalizado-1.f1.p-5
+      
+
       .fondo-personalizado-1__contenido.pb-5
         .row.align-items-center.pb-5
           .col-lg-9
-            .fondo-personalizado-1.no-tam-full.f3
-              .fondo-personalizado-1__contenido.py-4.py-lg-5.px-lg-4
-                .fondo-personalizado-3.p-4
-                  SlyderF.slider-personalizado-2(columnas="col-12",data-aos="flip-up")
-                    .row.align-items-center
-                      .col-lg-5
-                        figure.mb-4.mb-lg-0
-                          img.mx-auto(src="@/assets/curso/temas/47.svg",style="max-width: 295px;")
-                      .col-lg-7
-                        h5.mb-4 Mejora de la reputación
-                        p.mb-0 Las certificaciones ambientales demuestran un compromiso con la sostenibilidad y la responsabilidad ambiental, mejorando la reputación del proyecto y de la organización.
-                    .row.align-items-center
-                      .col-lg-5
-                        figure.mb-4.mb-lg-0
-                          img.mx-auto(src="@/assets/curso/temas/47.svg",style="max-width: 295px;")
-                      .col-lg-7
-                        h5.mb-4 Ahorro de costos
-                        p.mb-0 La implementación de prácticas sostenibles puede resultar en ahorros significativos en costos operativos, incluyendo la reducción de facturas de energía y agua.
-                    .row.align-items-center
-                      .col-lg-5
-                        figure.mb-4.mb-lg-0
-                          img.mx-auto(src="@/assets/curso/temas/47.svg",style="max-width: 295px;")
-                      .col-lg-7
-                        h5.mb-4 Aumento del valor del edificio
-                        p.mb-0 Los edificios certificados suelen tener un mayor valor de mercado y son más atractivos para inquilinos y compradores.
-                    .row.align-items-center
-                      .col-lg-5
-                        figure.mb-4.mb-lg-0
-                          img.mx-auto(src="@/assets/curso/temas/47.svg",style="max-width: 295px;")
-                      .col-lg-7
-                        h5.mb-4 Cumplimiento de regulaciones
-                        p.mb-0 Las certificaciones ambientales ayudan a cumplir con las regulaciones locales e internacionales sobre sostenibilidad y protección del medio ambiente.
-                    .row.align-items-center
-                      .col-lg-5
-                        figure.mb-4.mb-lg-0
-                          img.mx-auto(src="@/assets/curso/temas/47.svg",style="max-width: 295px;")
-                      .col-lg-7
-                        h5.mb-4 Promoción de la salud y el bienestar
-                        p.mb-0 Las certificaciones que se centran en la salud y el bienestar de los ocupantes, como #[em WELL Building Standard], pueden mejorar la productividad y la satisfacción de los empleados.
+            .fondo-slyde.p-lg-5.p-1
+              .bg-white.p-5.icon-slyder
+                SlyderF(columnas="col-11",data-aos="flip-up").mneg
+                  .row.align-items-center.px-5.justify-content-center
+                    .col-lg-5.mb-lg-0.mb-3.col-8
+                      figure.mb-4.mb-lg-0
+                        img.mx-auto(src="@/assets/curso/temas/47.svg",style="max-width: 295px;")
+                    .col-lg-7
+                      h5.mb-4 Mejora de la reputación
+                      p.mb-0 Las certificaciones ambientales demuestran un compromiso con la sostenibilidad y la responsabilidad ambiental, mejorando la reputación del proyecto y de la organización.
+                  .row.align-items-center.justify-content-center
+                    .col-lg-5.mb-lg-0.mb-3.col-8
+                      figure.mb-4.mb-lg-0
+                        img.mx-auto(src="@/assets/curso/temas/47.svg",style="max-width: 295px;")
+                    .col-lg-7
+                      h5.mb-4 Ahorro de costos
+                      p.mb-0 La implementación de prácticas sostenibles puede resultar en ahorros significativos en costos operativos, incluyendo la reducción de facturas de energía y agua.
+                  .row.align-items-center.justify-content-center
+                    .col-lg-5.mb-lg-0.mb-3.col-8
+                      figure.mb-4.mb-lg-0
+                        img.mx-auto(src="@/assets/curso/temas/47.svg",style="max-width: 295px;")
+                    .col-lg-7
+                      h5.mb-4 Aumento del valor del edificio
+                      p.mb-0 Los edificios certificados suelen tener un mayor valor de mercado y son más atractivos para inquilinos y compradores.
+                  .row.align-items-center.justify-content-center
+                    .col-lg-5.mb-lg-0.mb-3.col-8
+                      figure.mb-4.mb-lg-0
+                        img.mx-auto(src="@/assets/curso/temas/47.svg",style="max-width: 295px;")
+                    .col-lg-5.mb-lg-0.mb-3.col-8
+                      h5.mb-4 Cumplimiento de regulaciones
+                      p.mb-0 Las certificaciones ambientales ayudan a cumplir con las regulaciones locales e internacionales sobre sostenibilidad y protección del medio ambiente.
+                  .row.align-items-center.justify-content-center
+                    .col-lg-5.mb-lg-0.mb-3.col-8
+                      figure.mb-4.mb-lg-0
+                        img.mx-auto(src="@/assets/curso/temas/47.svg",style="max-width: 295px;")
+                    .col-lg-7
+                      h5.mb-4 Promoción de la salud y el bienestar
+                      p.mb-0 Las certificaciones que se centran en la salud y el bienestar de los ocupantes, como #[em WELL Building Standard], pueden mejorar la productividad y la satisfacción de los empleados.
 
           .col-lg-3.order-first.order-lg-last(data-aos="fade-left")
             figure.mb-4.mb-lg-0

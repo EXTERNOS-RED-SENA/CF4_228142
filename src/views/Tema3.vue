@@ -56,16 +56,16 @@
     .row
       .col-lg-6.mb-4(data-aos="fade-right")
         .fondo-color-sistema-l.p-4.borde-10.h-100.align-content-center
-          p.mb-0 #[b Aislamiento eléctrico]: Los cables y equipos deben estar adecuadamente aislados para prevenir choques eléctricos.
+          p.mb-0 #[b Aislamiento eléctrico]: los cables y equipos deben estar adecuadamente aislados para prevenir choques eléctricos.
       .col-lg-6.mb-4(data-aos="fade-up")
         .fondo-color-sistema-i.p-4.borde-10.h-100.align-content-center
-          p.mb-0 #[b Puesta a tierra]: Los sistemas deben estar correctamente puestos a tierra para proteger contra descargas eléctricas y para disipar la electricidad estática.
+          p.mb-0 #[b Puesta a tierra]: los sistemas deben estar correctamente puestos a tierra para proteger contra descargas eléctricas y para disipar la electricidad estática.
       .col-lg-6.mb-4(data-aos="fade-down")
         .fondo-color-sistema-i.p-4.borde-10.h-100.align-content-center
-          p.mb-0 #[b Protección contra descargas eléctricas]: Los trabajadores deben usar equipos de protección personal (EPP) adecuados, como guantes aislantes y calzado de seguridad.
+          p.mb-0 #[b Protección contra descargas eléctricas]: los trabajadores deben usar equipos de protección personal (EPP) adecuados, como guantes aislantes y calzado de seguridad.
       .col-lg-6.mb-4(data-aos="fade-left")
         .fondo-color-sistema-l.p-4.borde-10.h-100.align-content-center
-          p.mb-0 #[b Marcado y señalización]: Los cables y equipos deben estar claramente marcados y señalizados para identificar posibles riesgos eléctricos.
+          p.mb-0 #[b Marcado y señalización]: los cables y equipos deben estar claramente marcados y señalizados para identificar posibles riesgos eléctricos.
     
     Separador.pt-4
 
@@ -154,9 +154,9 @@
                   p.mb-4 Capacitación continua del personal en las normativas de seguridad y en los procedimientos de emergencia.
               .div(titulo="Documentación")
                 .ps-md-5.ms-md-3
-                  p.mb-4 Mantenimiento de registros detallados de todas las actividades relacionadas con la seguridad, incluyendo inspecciones, capacitaciones y incidentes.
+                  p.mb-4 Mantenimiento de registros detallados de todas las actividades relacionadas con la seguridad, incluyendo inspecciones, capacitaciones e incidentes.
 
- 
+
   
 </template>
 

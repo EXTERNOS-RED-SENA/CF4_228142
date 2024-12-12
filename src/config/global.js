@@ -219,7 +219,7 @@ export default {
   },
   complementario: [
     {
-      tema: '¿Qué es el cableado estructurado?',
+      tema: 'Implementación del Cableado Estructurado',
       referencia: 'Novusred. (2023b, septiembre 15).',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=laWefp80lz4',
@@ -284,7 +284,7 @@ export default {
     {
       termino: '<em>Rack</em>',
       significado:
-        'Estructura metálica utilizada para montar y organizar equipos de red y patch panels. Facilita la gestión y el mantenimiento del cableado estructurado.',
+        'Estructura metálica utilizada para montar y organizar equipos de red y <em>patch panels</em>. Facilita la gestión y el mantenimiento del cableado estructurado.',
     },
     {
       termino: 'TIA/EIA-568',

@@ -11,7 +11,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="La Figura 2 se denomina «Síntesis temática del componente», allí se mencionan los principales temas tratados sobre el cableado estructurado —como sus características, normatividad, como garantizar el rendimiento de la red y los elementos más importantes de la gestión de riesgos.")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="La Figura 2 se denomina «Síntesis temática del componente», allí se mencionan los principales temas tratados sobre el cableado estructurado como sus características, normatividad, como garantizar el rendimiento de la red y los elementos más importantes de la gestión de riesgos.")
         figcaption.mt-4 #[b Fuente]: OIT, 2024.
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")

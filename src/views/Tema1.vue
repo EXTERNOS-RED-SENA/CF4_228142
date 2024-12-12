@@ -25,16 +25,16 @@
     .row
       .col-lg-3.col-md-6.mb-4(data-aos="fade-right")
         .fondo-color-secundario.borde-10.p-3.h-100.align-content-center
-          p.mb-0 #[b Puntos de Entrada de Servicio (ESP)]: Donde los proveedores de servicios externos conectan sus cables a la infraestructura interna.
+          p.mb-0 #[b Puntos de Entrada de Servicio (ESP)]: donde los proveedores de servicios externos conectan sus cables a la infraestructura interna.
       .col-lg-3.col-md-6.mb-4(data-aos="fade-up")
         .fondo-color-secundario.borde-10.p-3.h-100.align-content-center
-          p.mb-0 #[b Sala de Equipos (ER)]: Donde se alojan los equipos de red principales, como #[em routers] y #[em switches].
+          p.mb-0 #[b Sala de Equipos (ER)]: donde se alojan los equipos de red principales, como #[em routers] y #[em switches].
       .col-lg-3.col-md-6.mb-4(data-aos="fade-down")
         .fondo-color-secundario.borde-10.p-3.h-100.align-content-center
-          p.mb-0 #[b Sala de Telecomunicaciones (TR)]: Donde se conectan los cables de los puntos de acceso a los equipos de red.
+          p.mb-0 #[b Sala de Telecomunicaciones (TR)]: donde se conectan los cables de los puntos de acceso a los equipos de red.
       .col-lg-3.col-md-6.mb-4(data-aos="fade-left")
         .fondo-color-secundario.borde-10.p-3.h-100.align-content-center
-          p.mb-0 #[b Área de Trabajo (WA)]: Donde los usuarios finales se conectan a la red
+          p.mb-0 #[b Área de Trabajo (WA)]: donde los usuarios finales se conectan a la red
     
     Separador.pt-4
 
@@ -74,31 +74,31 @@
           tr
             td.fw-bold.fondo-color-sistema-k Cables UTP #[i (Unshielded Twisted Pair)]
             td
-              p.text-start.mb-4 #[b Construcción]: Compuestos por pares de cables trenzados sin apantallamiento.
-              p.text-start.mb-4 #[b Categorías]: Clasificados en categorías (Cat5e, Cat6, Cat6a, Cat7, Cat8) que determinan su rendimiento y capacidad de transmisión de datos.
-              p.text-start.mb-0 #[b Aplicaciones]: Utilizados en redes Ethernet y telefonía.
+              p.text-start.mb-4 #[b Construcción]: compuestos por pares de cables trenzados sin apantallamiento.
+              p.text-start.mb-4 #[b Categorías]: clasificados en categorías (Cat5e, Cat6, Cat6a, Cat7, Cat8) que determinan su rendimiento y capacidad de transmisión de datos.
+              p.text-start.mb-0 #[b Aplicaciones]: utilizados en redes Ethernet y telefonía.
             td
-              p.text-start.mb-4 #[b Impedancia]: Debe ser de 100 ohmios.
-              p.text-start.mb-4 #[b Atenuación]: Debe cumplir con los límites establecidos por la categoría del cable.
-              p.text-start.mb-0 #[b Interferencia]: Baja susceptibilidad a interferencias electromagnéticas (EMI).
+              p.text-start.mb-4 #[b Impedancia]: debe ser de 100 ohmios.
+              p.text-start.mb-4 #[b Atenuación]: debe cumplir con los límites establecidos por la categoría del cable.
+              p.text-start.mb-0 #[b Interferencia]: baja susceptibilidad a interferencias electromagnéticas (EMI).
           tr
             td.fw-bold.fondo-color-sistema-k Cables STP #[i (Shielded Twisted Pair)]
             td
-              p.text-start.mb-4 #[b Construcción]: Pares de cables trenzados con una malla de apantallamiento.
-              p.text-start.mb-0 #[b Aplicaciones]: Utilizados en entornos con alta interferencia electromagnética.
+              p.text-start.mb-4 #[b Construcción]: pares de cables trenzados con una malla de apantallamiento.
+              p.text-start.mb-0 #[b Aplicaciones]: utilizados en entornos con alta interferencia electromagnética.
             td
-              p.text-start.mb-4 #[b Impedancia]: Debe ser de 100 ohmios.
-              p.text-start.mb-4 #[b Atenuación]: Debe cumplir con los límites establecidos por la categoría del cable.
-              p.text-start.mb-0 #[b Interferencia]: Mayor protección contra EMI en comparación con UTP.
+              p.text-start.mb-4 #[b Impedancia]: debe ser de 100 ohmios.
+              p.text-start.mb-4 #[b Atenuación]: debe cumplir con los límites establecidos por la categoría del cable.
+              p.text-start.mb-0 #[b Interferencia]: mayor protección contra EMI en comparación con UTP.
           tr
             td.fw-bold.fondo-color-sistema-k Cables FTP #[i (Foiled Twisted Pair)]
             td
-              p.text-start.mb-4 #[b Construcción]: Pares de cables trenzados con una lámina de aluminio como apantallamiento.
-              p.text-start.mb-4 #[b Aplicaciones]: Utilizados en entornos con alta interferencia electromagnética y donde se requiere una mayor protección contra EMI.
+              p.text-start.mb-4 #[b Construcción]: pares de cables trenzados con una lámina de aluminio como apantallamiento.
+              p.text-start.mb-4 #[b Aplicaciones]: utilizados en entornos con alta interferencia electromagnética y donde se requiere una mayor protección contra EMI.
             td
-              p.text-start.mb-4 #[b Impedancia]: Debe ser de 100 ohmios.
-              p.text-start.mb-4 #[b Atenuación]: Debe cumplir con los límites establecidos por la categoría del cable.
-              p.text-start.mb-0 #[b Interferencia]: Mayor protección contra EMI en comparación con STP.
+              p.text-start.mb-4 #[b Impedancia]: debe ser de 100 ohmios.
+              p.text-start.mb-4 #[b Atenuación]: debe cumplir con los límites establecidos por la categoría del cable.
+              p.text-start.mb-0 #[b Interferencia]: mayor protección contra EMI en comparación con STP.
     
     p.mb-4(data-aos="fade") La siguiente tabla amplía las características importantes de los componentes del cableado de fibra óptica:
 
