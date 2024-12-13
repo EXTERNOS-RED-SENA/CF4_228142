@@ -142,7 +142,7 @@
       .fondo-personalizado-1__contenido.pb-5
         .row.justify-content-center.pb-5
           .col-lg-10
-            AcordionA.acordion-personalizado-1.mb-5.pb-5(tipo="a" clase-tarjeta="tarjeta" data-aos="zoom-in-out")
+            AcordionA.acordion-personalizado-1.mt-4.mb-5.pb-5(tipo="a" clase-tarjeta="tarjeta" data-aos="zoom-in-out")
               .div(titulo="Inspecciones de seguridad")
                 .ps-md-5.ms-md-3
                   p.mb-4 Inspecciones periódicas para verificar que los equipos y sistemas cumplen con los estándares de seguridad.
