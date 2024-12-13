@@ -7,7 +7,7 @@
         .col-md-10.mb-4.mb-md-0
           .tarjeta.p-3.text-center.h-100
             h2 Elaborado por:
-            img.mx-auto.d-inline-block.mb-3(src='@/assets/template/LOGO_OIT.png' style='width:80%;max-width:613px' alt='la imagen muestra el Logotipo de la Organización Internacional del Trabajo.')
+            img.mx-auto.d-inline-block.mb-3(src='@/assets/template/LOGO_OIT.png' style='width:80%;max-width:613px' alt='La imagen muestra el Logotipo de la Organización Internacional del Trabajo.')
           
       .row.mb-4.mb-md-5
         .col-md-6.mb-4.mb-md-0
